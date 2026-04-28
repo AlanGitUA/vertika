@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "name": "\"Disenchantment\" Poleron",
+    "category": "Polerones",
+    "price": 38990,
+    "badge": "nuevo",
+    "desc": "Poleron oversize en algodón pesado 380g. Estampado serigráfico doble cara con ilustración original. Costura reforzada en hombros.",
+    "details": {
+      "Material": "Algodón 100% 380g/m²",
+      "Fit": "Oversize",
+      "Lavado": "Frío, vuelta al revés",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "img": "img/poleron-disenchantment.jpg",
+    "imgHover": "img/poleron-disenchantment-back.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tribal Hoodie",
+    "category": "Polerones",
+    "price": 44990,
+    "badge": "nuevo",
+    "desc": "Hoodie de corte regular con bordado geométrico en pecho. Capucha ajustable, bolsillo canguro. Peso medio ideal para entratiempos.",
+    "details": {
+      "Material": "Algodón / Poliéster 60/40 300g/m²",
+      "Fit": "Regular",
+      "Lavado": "Suave, frío",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "img": "img/hoodie-tribal.jpg",
+    "imgHover": "img/hoodie-tribal-back.jpg"
+  },
+  {
+    "id": 3,
+    "name": "\"Nights with Sun\" Tee",
+    "category": "Poleras",
+    "price": 12590,
+    "originalPrice": 13990,
+    "badge": "sale",
+    "desc": "Polera sin mangas de algodón peinado. Serigrafía en frente con diseño solar nocturno. Perfecto para capas o solo.",
+    "details": {
+      "Material": "Algodón peinado 180g/m²",
+      "Fit": "Slim",
+      "Lavado": "Normal, 30°C",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["XS", "S", "M", "L"],
+    "img": "img/tee-nights-with-sun.jpg",
+    "imgHover": "img/tee-nights-with-sun-back.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Printed Jorts",
+    "category": "Pantalones",
+    "price": 31990,
+    "badge": "nuevo",
+    "desc": "Jean shorts con estampado all-over. Tela denim media (8oz). Corte recto a la rodilla con puños deshilachados.",
+    "details": {
+      "Material": "Denim 100% algodón 8oz",
+      "Fit": "Recto",
+      "Largo": "A la rodilla",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["26", "28", "30", "32", "34"],
+    "img": "img/jorts-printed.jpg",
+    "imgHover": "img/jorts-printed-back.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cargo Wide Leg",
+    "category": "Pantalones",
+    "price": 48990,
+    "badge": null,
+    "desc": "Pantalón cargo de corte wide leg en gabardina. Múltiples bolsillos funcionales, pretina con elástico trasero.",
+    "details": {
+      "Material": "Gabardina 65/35 Pol/Cot",
+      "Fit": "Wide Leg",
+      "Cintura": "Elástico trasero",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "img": "img/cargo-wide-leg.jpg",
+    "imgHover": "img/cargo-wide-leg-back.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Varsity Stripe Tee",
+    "category": "Poleras",
+    "price": 16990,
+    "badge": null,
+    "desc": "Polera de algodón orgánico con rayas varsity en cuello y mangas. Bordado Vertika en pecho izquierdo.",
+    "details": {
+      "Material": "Algodón orgánico 200g/m²",
+      "Fit": "Regular",
+      "Lavado": "Normal, 30°C",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "img": "img/tee-varsity-stripe.jpg",
+    "imgHover": "img/tee-varsity-stripe-back.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Linen Shirt SS",
+    "category": "Poleras",
+    "price": 29990,
+    "badge": null,
+    "desc": "Camisa manga corta en lino natural. Cuello cubano, botones de coco. Caída fluida, ideal para superposición.",
+    "details": {
+      "Material": "Lino 100% natural",
+      "Fit": "Relaxed",
+      "Botones": "Coco natural",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "img": "img/shirt-linen-ss.jpg",
+    "imgHover": "img/shirt-linen-ss-back.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Track Pant Vertika",
+    "category": "Pantalones",
+    "price": 36990,
+    "originalPrice": 42990,
+    "badge": "sale",
+    "desc": "Pantalón de buzo en piqué técnico. Corte recto, banda lateral tejida, pretina doble con cordón.",
+    "details": {
+      "Material": "Piqué técnico 240g/m²",
+      "Fit": "Recto",
+      "Pretina": "Elástico + cordón",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "img": "img/pant-track-vertika.jpg",
+    "imgHover": "img/pant-track-vertika-back.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Beanie Vertika",
+    "category": "Accesorios",
+    "price": 14990,
+    "badge": null,
+    "desc": "Gorro tejido en lana merino. Doble vuelta. Parche bordado Vertika en frente. Abriga sin aplastar.",
+    "details": {
+      "Material": "Lana merino 100%",
+      "Talla": "Única",
+      "Bordado": "Sí",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["Única"],
+    "img": "img/beanie-vertika.jpg",
+    "imgHover": "img/beanie-vertika-2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bucket Hat Print",
+    "category": "Accesorios",
+    "price": 18990,
+    "badge": "nuevo",
+    "desc": "Bucket hat en ripstop con estampado all-over exclusivo. Ala media, cinta ajustable interior.",
+    "details": {
+      "Material": "Ripstop 100% Poliéster",
+      "Ala": "6cm",
+      "Ajuste": "Cinta interior",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["S/M", "M/L"],
+    "img": "img/hat-bucket-print.jpg",
+    "imgHover": "img/hat-bucket-print-2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tote Bag Canvas",
+    "category": "Accesorios",
+    "price": 12990,
+    "badge": null,
+    "desc": "Bolso tote en canvas 14oz. Serigrafía en frente. Asas largas reforzadas, fondo estructurado.",
+    "details": {
+      "Material": "Canvas 100% algodón 14oz",
+      "Medidas": "38 × 42 cm",
+      "Asas": "Reforzadas 70cm",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["Única"],
+    "img": "img/bag-tote-canvas.jpg",
+    "imgHover": "img/bag-tote-canvas-2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Calcetines Pack x3",
+    "category": "Accesorios",
+    "price": 9990,
+    "badge": null,
+    "desc": "Pack de 3 pares de calcetines en canalé con ribete de color. Diseños exclusivos temporada SS25.",
+    "details": {
+      "Material": "Algodón / Elastano 95/5",
+      "Talla": "39-42 / 43-46",
+      "Lavado": "Normal 40°C",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["39-42", "43-46"],
+    "img": "img/socks-pack-x3.jpg",
+    "imgHover": "img/socks-pack-x3-2.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Overshirt Flannel",
+    "category": "Polerones",
+    "price": 52990,
+    "badge": null,
+    "desc": "Overshirt en franela escocesa. Corte boyfriend, doble bolsillo pecho. Ideal sobre polera o camiseta.",
+    "details": {
+      "Material": "Franela algodón 230g/m²",
+      "Fit": "Boyfriend",
+      "Bolsillos": "2 pecho",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["S", "M", "L", "XL"],
+    "img": "img/overshirt-flannel.jpg",
+    "imgHover": "img/overshirt-flannel-back.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Long Sleeve Graphic",
+    "category": "Poleras",
+    "price": 22990,
+    "originalPrice": 26990,
+    "badge": "sale",
+    "desc": "Polera manga larga en jersey pesado. Gráfica abstracta estampada en frente. Cuello redondo reforzado.",
+    "details": {
+      "Material": "Jersey algodón 220g/m²",
+      "Fit": "Slim-Regular",
+      "Lavado": "Normal 30°C",
+      "Producción": "Local — Santiago, Chile"
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "img": "img/tee-long-sleeve-graphic.jpg",
+    "imgHover": "img/tee-long-sleeve-graphic-back.jpg"
+  }
+]
