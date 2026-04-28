@@ -12,9 +12,15 @@
       "Lavado": "Frío, vuelta al revés",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["XS", "S", "M", "L", "XL"],
-    "img": "img/poleron-disenchantment.jpg",
-    "imgHover": "img/poleron-disenchantment-back.jpg"
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/poleron-disenchantment.svg",
+    "imgHover": "img/productos/poleron-disenchantment-back.svg"
   },
   {
     "id": 2,
@@ -29,9 +35,14 @@
       "Lavado": "Suave, frío",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["S", "M", "L", "XL"],
-    "img": "img/hoodie-tribal.jpg",
-    "imgHover": "img/hoodie-tribal-back.jpg"
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/hoodie-tribal.svg",
+    "imgHover": "img/productos/hoodie-tribal-back.svg"
   },
   {
     "id": 3,
@@ -47,9 +58,14 @@
       "Lavado": "Normal, 30°C",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["XS", "S", "M", "L"],
-    "img": "img/tee-nights-with-sun.jpg",
-    "imgHover": "img/tee-nights-with-sun-back.jpg"
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "img": "img/productos/tee-nights-with-sun.svg",
+    "imgHover": "img/productos/tee-nights-with-sun-back.svg"
   },
   {
     "id": 4,
@@ -64,9 +80,15 @@
       "Largo": "A la rodilla",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["26", "28", "30", "32", "34"],
-    "img": "img/jorts-printed.jpg",
-    "imgHover": "img/jorts-printed-back.jpg"
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "img": "img/productos/jorts-printed.svg",
+    "imgHover": "img/productos/jorts-printed-back.svg"
   },
   {
     "id": 5,
@@ -81,9 +103,14 @@
       "Cintura": "Elástico trasero",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["S", "M", "L", "XL"],
-    "img": "img/cargo-wide-leg.jpg",
-    "imgHover": "img/cargo-wide-leg-back.jpg"
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/cargo-wide-leg.svg",
+    "imgHover": "img/productos/cargo-wide-leg-back.svg"
   },
   {
     "id": 6,
@@ -98,9 +125,16 @@
       "Lavado": "Normal, 30°C",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
-    "img": "img/tee-varsity-stripe.jpg",
-    "imgHover": "img/tee-varsity-stripe-back.jpg"
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "img": "img/productos/tee-varsity-stripe.svg",
+    "imgHover": "img/productos/tee-varsity-stripe-back.svg"
   },
   {
     "id": 7,
@@ -115,9 +149,14 @@
       "Botones": "Coco natural",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["S", "M", "L", "XL"],
-    "img": "img/shirt-linen-ss.jpg",
-    "imgHover": "img/shirt-linen-ss-back.jpg"
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/shirt-linen-ss.svg",
+    "imgHover": "img/productos/shirt-linen-ss-back.svg"
   },
   {
     "id": 8,
@@ -133,9 +172,15 @@
       "Pretina": "Elástico + cordón",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["XS", "S", "M", "L", "XL"],
-    "img": "img/pant-track-vertika.jpg",
-    "imgHover": "img/pant-track-vertika-back.jpg"
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/pant-track-vertika.svg",
+    "imgHover": "img/productos/pant-track-vertika-back.svg"
   },
   {
     "id": 9,
@@ -150,9 +195,11 @@
       "Bordado": "Sí",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["Única"],
-    "img": "img/beanie-vertika.jpg",
-    "imgHover": "img/beanie-vertika-2.jpg"
+    "sizes": [
+      "Única"
+    ],
+    "img": "img/productos/beanie-vertika.svg",
+    "imgHover": "img/productos/beanie-vertika-2.svg"
   },
   {
     "id": 10,
@@ -167,9 +214,12 @@
       "Ajuste": "Cinta interior",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["S/M", "M/L"],
-    "img": "img/hat-bucket-print.jpg",
-    "imgHover": "img/hat-bucket-print-2.jpg"
+    "sizes": [
+      "S/M",
+      "M/L"
+    ],
+    "img": "img/productos/hat-bucket-print.svg",
+    "imgHover": "img/productos/hat-bucket-print-2.svg"
   },
   {
     "id": 11,
@@ -184,9 +234,11 @@
       "Asas": "Reforzadas 70cm",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["Única"],
-    "img": "img/bag-tote-canvas.jpg",
-    "imgHover": "img/bag-tote-canvas-2.jpg"
+    "sizes": [
+      "Única"
+    ],
+    "img": "img/productos/bag-tote-canvas.svg",
+    "imgHover": "img/productos/bag-tote-canvas-2.svg"
   },
   {
     "id": 12,
@@ -201,9 +253,12 @@
       "Lavado": "Normal 40°C",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["39-42", "43-46"],
-    "img": "img/socks-pack-x3.jpg",
-    "imgHover": "img/socks-pack-x3-2.jpg"
+    "sizes": [
+      "39-42",
+      "43-46"
+    ],
+    "img": "img/productos/socks-pack-x3.svg",
+    "imgHover": "img/productos/socks-pack-x3-2.svg"
   },
   {
     "id": 13,
@@ -218,9 +273,14 @@
       "Bolsillos": "2 pecho",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["S", "M", "L", "XL"],
-    "img": "img/overshirt-flannel.jpg",
-    "imgHover": "img/overshirt-flannel-back.jpg"
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/overshirt-flannel.svg",
+    "imgHover": "img/productos/overshirt-flannel-back.svg"
   },
   {
     "id": 14,
@@ -236,8 +296,14 @@
       "Lavado": "Normal 30°C",
       "Producción": "Local — Santiago, Chile"
     },
-    "sizes": ["XS", "S", "M", "L", "XL"],
-    "img": "img/tee-long-sleeve-graphic.jpg",
-    "imgHover": "img/tee-long-sleeve-graphic-back.jpg"
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "img": "img/productos/tee-long-sleeve-graphic.svg",
+    "imgHover": "img/productos/tee-long-sleeve-graphic-back.svg"
   }
 ]
